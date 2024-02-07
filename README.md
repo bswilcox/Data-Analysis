@@ -1,1 +1,1 @@
-Hey! This is my repository for finished and going economics research projects.
+Hey! This is my repository for finished and ongoing economics research projects.
